@@ -1,4 +1,4 @@
-# clustering_talk
+# Clustering + Dim Reduction
 Code, slides for a talk on clustering + dim reduction 
 
 Code: see jupyter notebook  
